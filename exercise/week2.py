@@ -1,3 +1,9 @@
+#major cost = c
+#vistors = v
+#Subscription Revenue = s
+#AD Revenue = a
+#income = n
+'''
 def calculator(v):
 ...     c = 70000+30000+50000
 ...     s = v*10/100*15
@@ -10,5 +16,5 @@ calculator(40000)
 calculator(60000)
 -12000.0
 calculator(80000)
-34000.0
->>> 
+34000.0 
+'''
